@@ -1,0 +1,6 @@
+{
+	"name": "GCP-IR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
